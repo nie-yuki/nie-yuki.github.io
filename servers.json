@@ -2,15 +2,15 @@
     "servers": [
         {
             "name": "[yukinas]",
-            "address": "[ipa.yukinas.com:4433]"
+            "address": "[https://ipa.yukinas.com:4433]"
         },
         {
             "name": "[local]",
-            "address": "[192.168.50.2:6969]"
+            "address": "[http://192.168.50.2:6969]"
         },
         {
             "name": "[local2]",
-            "address": "[192.168.50.2]"
+            "address": "[http://192.168.50.2]"
         }
     ]
 }
